@@ -28,10 +28,10 @@
 <h2> 👨🏻‍💻 &nbsp;A Little Bit About Me and My Interests</h2>
 
 ```yaml
-Name: Akram Hossain
-Located_in: Bangladesh, Dhaka
-Current_job: Student
-Education:
+name: Akram Hossain
+located_in: Bangladesh, Dhaka
+current_job: Student
+education:
   [
     "Self-Taught Developer",
     "Diploma in Computer Science",

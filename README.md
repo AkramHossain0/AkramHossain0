@@ -50,7 +50,7 @@ technical_background:
   
 currently_learning: ["C, and Python"]
 2025 Goals: ["Create 25+ Projects and learn at least 5-10 new Technologies."]
-hobbies: ["Gaming", "Traveling", "Footbal", "codeing"]
+hobbies: ["Gaming", "Traveling", "football", "codeing"]
 ```
   
 ---  

@@ -40,20 +40,6 @@ Welcome to my GitHub! I'm passionate about creating meaningful digital experienc
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AkramHossain090&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="180">
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkramHossain090&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="180">
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AkramHossain090&theme=tokyonight&hide_border=true" alt="GitHub Streak">
-</div>
-
 ## 🎯 What I'm Working On
 
 - 🔭 Building full-stack web applications with modern technologies

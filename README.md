@@ -1,83 +1,88 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello!&height=100&section=header"/>
-</p>
+# Hi there! 👋 I'm Akram Hossain
 
-<h1 align="center">
-  Let's Connect and have a Chat!💬
-</h1>
+**Full Stack Developer** | **Computer Science Student** | **Based in Dhaka, Bangladesh**
 
-<p align="center">
-
-
-<a href="https://x.com/AkramHossain090">
-  <img height="50" src="https://user-images.githubusercontent.com/46517096/166974271-91dfa250-d70b-4cb9-8707-f1bda1b708c3.png"/>
-</a>
-<a href="https://www.linkedin.com/in/akram-hossain-/">
-  <img height="50" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png"/>
-</a>
-<a href="https://www.facebook.com/akramhossain090">
-  <img height="50" src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg"/>
-</a>
-<a href="https://www.instagram.com/akramhossain090/">
-  <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
-</a>
-</p>
+Welcome to my GitHub! I'm passionate about creating meaningful digital experiences through clean code and thoughtful design. Currently pursuing my Diploma in Computer Science while building projects that solve real-world problems.
 
 ---
 
-<h2> 👨🏻‍💻 &nbsp;A Little Bit About Me and My Interests</h2>
+## 🚀 About Me
 
 ```yaml
-name: Akram Hossain
-located_in: Bangladesh, Dhaka
-current_job: Student
-education:
-  [
-    "Self-Taught Developer",
-    "Diploma in Computer Science",
-  ]
-
-fields_of_interests:
-  [
-    "Web Development",
-    "UI/UX",
-    "Game Development",
-  ]
-technical_background:
-  [
-    "Full Stack Developer",
-  ]
-  
-currently_learning: ["C, and Python"]
-2025 Goals: ["Create 25+ Projects and learn at least 5-10 new Technologies."]
-hobbies: ["Gaming", "Traveling", "football", "codeing"]
+👨‍💻 Role: Full Stack Developer & Student
+🌍 Location: Dhaka, Bangladesh
+🎓 Education: Diploma in Computer Science (Self-Taught Developer)
+🎯 Focus: Web Development, UI/UX Design, Game Development
+📚 Currently Learning: C Programming & Python
+🏆 2025 Goal: Build 25+ projects & master 5-10 new technologies
 ```
+
+## 💼 Technical Stack
+
+### Frontend Development
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+### Backend Development
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+
+### Database & Tools
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AkramHossain090&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="180">
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkramHossain090&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="180">
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AkramHossain090&theme=tokyonight&hide_border=true" alt="GitHub Streak">
+</div>
+
+## 🎯 What I'm Working On
+
+- 🔭 Building full-stack web applications with modern technologies
+- 🌱 Expanding my knowledge in C and Python programming
+- 🎨 Creating intuitive UI/UX designs that enhance user experience
+- 🎮 Exploring game development as a creative outlet
+- 📈 Contributing to open-source projects
+
+## 📫 Let's Connect!
+
+I'm always open to interesting conversations and collaboration opportunities!
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akram-hossain-/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/AkramHossain090)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/akramhossain090)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/akramhossain090/)
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=AkramHossain090&style=for-the-badge&color=blue" alt="Profile Views">
+</div>
+
+<div align="center">
   
----  
-  
-<h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
-<p align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html" width="45" height="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="45" height="45" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original-wordmark.svg" width="45" height="45" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" width="45" height="45" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="45" height="45" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="react" width="45" height="45" />
+*"Code is like humor. When you have to explain it, it's bad."* – Cory House
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="45" height="45" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="nodejs" width="45" height="45" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" width="45" height="45"/>
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="45" height="45" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="45" height="45" />
-
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="figma" width="45" height="45"/>   
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
-</p>
+</div>
